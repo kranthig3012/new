@@ -1,0 +1,5 @@
+.Ds_store
+tmp
+*.swap~
+test/*txt
+!test/master.txt
